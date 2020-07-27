@@ -16,6 +16,6 @@ public class Main {
 
 	dollarAmount = amountOfMexicanPesos / dollarPrice;
 
-		System.out.println(dollarAmount);
+        System.out.println(dollarAmount);
     }
 }
